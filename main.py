@@ -1,2 +1,2 @@
 def echo(x):
-    return (x + 10)
+    return (x * 5)
